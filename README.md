@@ -19,6 +19,12 @@ CAPÍTULO 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
 [![2d.png](https://i.postimg.cc/4d4qcS88/2d.png)](https://postimg.cc/R38g5Xxf)
 
+4.- Evaluar cad auno de los determinantes:
+
+[![4a.png](https://i.postimg.cc/kMHSktdG/4a.png)](https://postimg.cc/vDWDnTTw)
+
+[![4b.png](https://i.postimg.cc/BvNLNjgq/4b.png)](https://postimg.cc/DWJwwyHD)
+
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
