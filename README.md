@@ -9,6 +9,16 @@ Capítulos 9-10
 
 CAPÍTULO 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
+2.- Evaluar cada determinante:
+
+[![2a.png](https://i.postimg.cc/FKk74TbB/2a.png)](https://postimg.cc/p9x2QY6f)
+
+[![2b.png](https://i.postimg.cc/xj3qnJHn/2b.png)](https://postimg.cc/qggpG7j5)
+
+[![2c.png](https://i.postimg.cc/Ls3GnpVY/2c.png)](https://postimg.cc/Tyht4BFf)
+
+[![2d.png](https://i.postimg.cc/4d4qcS88/2d.png)](https://postimg.cc/R38g5Xxf)
+
 ## 4. VIDEO
 
 ## 5. CONCLUSIONES
